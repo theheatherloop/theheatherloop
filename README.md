@@ -14,7 +14,7 @@ I'm Heather 👩🏼‍💻
 <a href="https://github.com/theheatherloop"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/theheatherloop/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/theheatherloop"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://www.discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white"alt="Discord"/></a>
+<a href="https://www.discord.com/users/theheatherloop#1568"><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white"alt="Discord"/></a>
 </p>
 
 <h2>
