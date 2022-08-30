@@ -6,8 +6,9 @@
 </p>
 	
 <h1 align="center">	
-I'm Heather 👩🏼‍💻
+I'm Heather, a Software Developer! </br>
 </h1>
+
 
 <p align="center">
 <a href="mailto:theheatherloop@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -15,9 +16,14 @@ I'm Heather 👩🏼‍💻
 <a href="https://www.linkedin.com/in/theheatherloop/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/theheatherloop"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://www.discord.com/users/theheatherloop#1568"><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white"alt="Discord"/></a>
+</br>
+</p>
+<p>
+</br>
 </p>
 
-
+<h2 align="center">Tech Skills</h2>
+	
 > ### 👩‍💻 Languages
 >
 > - ![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue)&nbsp;
@@ -26,7 +32,7 @@ I'm Heather 👩🏼‍💻
 > - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)&nbsp;
 > - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)&nbsp;
 
-<br>
+<img align="right" width="450px" alt="GIF" src="https://media3.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif?cid=ecf05e47gxczvt84p963exw1zoc88aoouyu09obke229j7ql&rid=giphy.gif&ct=s" />
 
 > ### 📚 Frameworks, Platforms and Libraries
 >
@@ -36,7 +42,8 @@ I'm Heather 👩🏼‍💻
 > - ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)&nbsp;
 > - ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)&nbsp;
 > - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)&nbsp;
->  
+> 
+
 
 > ### 🛢️ Databases
 >
