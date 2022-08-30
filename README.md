@@ -17,12 +17,8 @@ I'm Heather 👩🏼‍💻
 <a href="https://www.discord.com/users/theheatherloop#1568"><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white"alt="Discord"/></a>
 </p>
 
-<h2>
-<img src="https://media1.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=790b7611e0c1743021340a978e2e686904030ef45c2bda18&rid=giphy.gif&ct=s" width="35"> Tech Tools
-</h2>
 
-
-> #### 👩‍💻 Languages
+> ### 👩‍💻 Languages
 >
 > - ![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue)&nbsp;
 > - ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)&nbsp;
@@ -32,7 +28,7 @@ I'm Heather 👩🏼‍💻
 
 <br>
 
-> #### 📚 Frameworks, Platforms and Libraries
+> ### 📚 Frameworks, Platforms and Libraries
 >
 > - ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)&nbsp;
 > - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)&nbsp;
@@ -42,31 +38,31 @@ I'm Heather 👩🏼‍💻
 > - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)&nbsp;
 >  
 
-> #### 🛢️ Databases
+> ### 🛢️ Databases
 >
 > - ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 > - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)&nbsp;
 > 
 
-> #### ⌚ Version Control
+> ### ⌚ Version Control
 >
 > - ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)&nbsp;
 > - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)&nbsp;
 >
 
-> #### ☁️ Hosting/SaaS
+> ### ☁️ Hosting/SaaS
 >
 > - ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=plastic&logo=azure-devops&logoColor=white)&nbsp;
 >
 
-> #### 🧰 IDEs/Editors
+> ### 🧰 IDEs/Editors
 >
 > - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)&nbsp;
 > - ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white)&nbsp;
 > - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)&nbsp;
 >
 
-> #### 🎨 Design
+> ### 🎨 Design
 >
 > - ![Inkscape](https://img.shields.io/badge/prettier-1A2C34?style=plastic&logo=prettier&logoColor=F7BA3E)&nbsp;
 
