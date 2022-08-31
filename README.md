@@ -18,12 +18,14 @@ I'm Heather, a Software Developer! </br>
 <a href="https://www.discord.com/users/theheatherloop#1568"><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white"alt="Discord"/></a>
 </br>
 </p>
+
 <p>
 </br>
 </p>
 
 <h2 align="center">Tech Skills</h2>
-	
+
+
 > ### 👩‍💻 Languages
 >
 > - ![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue)&nbsp;
@@ -31,7 +33,6 @@ I'm Heather, a Software Developer! </br>
 > - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;
 > - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)&nbsp;
 > - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)&nbsp;
-
 <img align="right" width="450px" alt="GIF" src="https://media3.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif?cid=ecf05e47gxczvt84p963exw1zoc88aoouyu09obke229j7ql&rid=giphy.gif&ct=s" />
 
 > ### 📚 Frameworks, Platforms and Libraries
@@ -43,7 +44,6 @@ I'm Heather, a Software Developer! </br>
 > - ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)&nbsp;
 > - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)&nbsp;
 > 
-
 
 > ### 🛢️ Databases
 >
@@ -71,5 +71,23 @@ I'm Heather, a Software Developer! </br>
 
 > ### 🎨 Design
 >
-> - ![Inkscape](https://img.shields.io/badge/prettier-1A2C34?style=plastic&logo=prettier&logoColor=F7BA3E)&nbsp;
+> - ![Inkscape](https://img.shields.io/badge/inkscape-1A2C34?style=plastic&logo=inkscape&logoColor=F7BA3E)&nbsp;
+
+<p>
+</br>
+</p>
+
+<h2 align="center"> Non-Tech Interests </h2>
+
+- ### 🐈‍⬛ Cats
+- ### 🎲 Table top games
+- ### ⛩️ Anime
+
+<img align="right" width="100px" alt="GIF" src="https://i.giphy.com/media/cj2c6lmeuBGo508sSL/200.webp" />
+
+- ### 🍄 70's style mushrooms
+- ### 🎱 Pool 
+- ### 🧋 Boba Tea
+- ### 🎶 Liquid drum & bass
+
 
