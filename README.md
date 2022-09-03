@@ -85,7 +85,7 @@ I'm Heather, a Software Developer! </br>
 
 <img align="right" width="100px" alt="GIF" src="https://i.giphy.com/media/cj2c6lmeuBGo508sSL/200.webp" />
 
-- ### 🍄 70's style mushrooms
+- ### 🍄 Mushrooms
 - ### 🎱 Pool 
 - ### 🧋 Boba Tea
 - ### 🎶 Liquid drum & bass
