@@ -17,14 +17,15 @@ I'm Heather, a Software Developer! </br>
 <a href="https://twitter.com/theheatherloop"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://www.discord.com/users/theheatherloop#1568"><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white"alt="Discord"/></a>
 <br/>
+
 </p>
 
 
+<br/>
 
 <p>
 <br/>
 </p>
-
 
 
 
