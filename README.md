@@ -16,12 +16,17 @@ I'm Heather, a Software Developer! </br>
 <a href="https://www.linkedin.com/in/theheatherloop/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/theheatherloop"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://www.discord.com/users/theheatherloop#1568"><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white"alt="Discord"/></a>
-</br>
+<br/>
 </p>
 
+
+
 <p>
-</br>
+<br/>
 </p>
+
+
+
 
 <h2 align="center">Tech Skills</h2>
 
@@ -77,17 +82,14 @@ I'm Heather, a Software Developer! </br>
 </br>
 </p>
 
-<h2 align="center"> Non-Tech Interests </h2>
+<h2 align="center"> <img align="top" width="30px" alt="GIF" src="https://i.giphy.com/media/cj2c6lmeuBGo508sSL/200.webp" /> Other Interests <img align="top" width="30px" alt="GIF" src="https://i.giphy.com/media/cj2c6lmeuBGo508sSL/200.webp" /></h2>
 
-- ### 🐈‍⬛ Cats
-- ### 🎲 Table top games
-- ### ⛩️ Anime
-
-<img align="right" width="100px" alt="GIF" src="https://i.giphy.com/media/cj2c6lmeuBGo508sSL/200.webp" />
-
-- ### 🍄 Mushrooms
-- ### 🎱 Pool 
-- ### 🧋 Boba Tea
-- ### 🎶 Liquid drum & bass
+- 🐈‍⬛ Cats
+- 🎲 Table top games
+- ⛩️ Anime
+- 🍄 Mushrooms
+- 🎱 Pool 
+- 🧋 Boba Tea
+- 🎶 Liquid drum & bass
 
 
