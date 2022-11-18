@@ -85,12 +85,10 @@ I'm Heather, a Software Developer! </br>
 
 <h2 align="center"> <img align="top" width="30px" alt="GIF" src="https://i.giphy.com/media/cj2c6lmeuBGo508sSL/200.webp" /> Other Interests <img align="top" width="30px" alt="GIF" src="https://i.giphy.com/media/cj2c6lmeuBGo508sSL/200.webp" /></h2>
 
-- 🐈‍⬛ Cats
+- 🐈‍ Cats
 - 🎲 Table top games
 - ⛩️ Anime
 - 🍄 Mushrooms
 - 🎱 Pool 
-- 🧋 Boba Tea
+-  🧋  Boba Tea
 - 🎶 Liquid drum & bass
-
-
