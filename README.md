@@ -39,6 +39,12 @@ I'm Heather, a Software Developer! </br>
 > - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;
 > - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)&nbsp;
 > - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)&nbsp;
+> - ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)&nbsp;
+> - ![VisualBasic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=plastic&logo=visualbasic&logoColor=white)&nbsp;
+> - ![Java](https://img.shields.io/badge/Java-323330.svg?style=plastic&logo=openjdk&logoColor=%23ED8B00)&nbsp;
+
+
+
 <img align="right" width="450px" alt="GIF" src="https://media3.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif?cid=ecf05e47gxczvt84p963exw1zoc88aoouyu09obke229j7ql&rid=giphy.gif&ct=s" />
 
 > ### 📚 Frameworks, Platforms and Libraries
@@ -73,6 +79,7 @@ I'm Heather, a Software Developer! </br>
 > - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)&nbsp;
 > - ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white)&nbsp;
 > - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)&nbsp;
+> - ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white)&nbsp;
 >
 
 > ### 🎨 Design
