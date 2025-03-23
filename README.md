@@ -61,7 +61,6 @@ I'm Heather, a Software Developer! </br>
 >
 > - ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 > - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)&nbsp;
-> - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)&nbsp;
 > - ![ORACLE](https://img.shields.io/badge/Oracle-231b1b.svg?style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxzdmcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB3aWR0aD0nMzInIGhlaWdodD0nMjAnPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNDNzQ2MzQiIHN0cm9rZS13aWR0aD0iNCIgZD0ibTEwLDJhOCw4IDAgMSwwIDAsMTZoMTJhOCw4IDAgMSwwIDAtMTZ6Ii8+Cjwvc3ZnPg==)&nbsp;
 
 > 
