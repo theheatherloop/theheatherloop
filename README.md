@@ -57,10 +57,12 @@ I'm Heather, a Software Developer! </br>
 > - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)&nbsp;
 > 
 
-> ### 🛢️ Databases
+> ### 🛢️ RDMS 
 >
 > - ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 > - ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)&nbsp;
+> - ![ORACLE](https://img.shields.io/badge/Oracle-231b1b?style=plastic&logo=Oracle&logoColor=white)&nbsp;
+
 > 
 
 > ### ⌚ Version Control
